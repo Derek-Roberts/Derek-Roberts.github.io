@@ -1,0 +1,37 @@
+url: https://derekroberts.us
+
+# Site settings
+title: Derek Roberts
+email: derek.roberts.ca@gmail.com
+description: "Welcome to my portfolio!  My name is Derek and I am a Computer Information Systems graduate pursuing career in Software Engineering."
+
+
+# Team names, titles and social links
+people:
+- name: Derek Roberts
+  pic: 1
+  position: Software Engineer
+  social:
+    - title: linkedin
+      url: https://linkedin.com/in/derek-roberts
+    - title: github
+      url: https://github.com/Derek-Roberts
+    - title: instagram
+      url: https://www.instagram.com/derekzoolander/
+    - title: facebook
+      url: https://www.facebook.com/the.derek.roberts
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: linkedin
+    url: https://linkedin.com/in/derek-roberts
+  - title: github
+    url: https://github.com/Derek-Roberts
+  - title: instagram
+    url: https://www.instagram.com/derekzoolander/
+  - title: facebook
+    url: https://www.facebook.com/the.derek.roberts
+
+# Build settings
+markdown: kramdown
+permalink: pretty
