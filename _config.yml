@@ -10,7 +10,6 @@ description: "Welcome to my portfolio!  My name is Derek and I am a Computer Inf
 people:
 - name: Derek Roberts
   pic: 1
-  position: Software Engineer
   social:
     - title: linkedin
       url: https://linkedin.com/in/derek-roberts
