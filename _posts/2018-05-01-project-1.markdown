@@ -1,6 +1,6 @@
 ---
-title: Securis iOS App
-subtitle: App Development
+title: Security Teaching Tool
+subtitle: iOS App Development
 layout: default
 modal-id: 1
 date: 2018-05-02
@@ -8,7 +8,7 @@ img: securis.png
 thumbnail: securis-thumbnail.png
 alt: image-alt
 project-date: May 2018
-category: App Development
+category: iOS App Development
 description: Multi-user iOS app that quizzed and ranked users on security concepts. Firebase was used as the back-end for both JSON data storage along with user authentication.
 tech: Swift, Firebase, Xcode
 
