@@ -46,6 +46,10 @@ a.active {
     color: #{{ site.data.template.color.secondary }};
 }
 
+strong {
+    color: #{{ site.data.template.color.primary }}
+}
+
 h1,
 h2,
 h3,

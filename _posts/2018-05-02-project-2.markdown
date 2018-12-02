@@ -1,0 +1,14 @@
+---
+title: Parkr iOS App
+subtitle: App Development
+layout: default
+modal-id: 2
+date: 2018-05-01
+img: escape.png
+thumbnail: parkr-thumbnail.png
+alt: image-alt
+project-date: May 2018
+category: App Development
+description: Allowed students to connect and trade parking spaces around campus using a Firebase back-end along with the Google Maps API. UI tests were employed using Xcode’s XCTest framework, allowing for a consistent and predictable user experience.
+tech: Swift, Firebase, Google Maps
+---

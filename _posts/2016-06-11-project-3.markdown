@@ -1,0 +1,14 @@
+---
+title: Gameboy Zero
+subtitle: Hobby Electronics
+layout: default
+modal-id: 3
+date: 2018-06-11
+img: gameboy.png
+thumbnail: gameboy-thumbnail.png
+alt: image-alt
+project-date: June 2016
+category: Hobby Electronics
+description: Portable Linux game console using a Raspberry Pi Zero and modified automobile backup camera monitor within the shell of a Game Boy. The original control circuitry was kept by wiring directly into a Teensy microcontroller that emulated keyboard inputs.
+tech: Linux, Embedded Systems, Hobby Electronics
+---
